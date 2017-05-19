@@ -25,7 +25,6 @@ excerpt: Hi,你好,moonmoonbird,一名小小的见习魔法师,目前还在魔�
 <strong>
 | [微博](http://weibo.com/yyyyueyueniao/)
 | [GitHub](https://github.com/shizhipeng)
-| 
 </strong>
 
 
