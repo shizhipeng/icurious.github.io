@@ -2,11 +2,11 @@
 layout: post
 category: Info
 title: Hello world
-date: 2016-11-08 15:55:24.000000000 +08:00
-tags: icurious, info
-keywords: icurious, icurious
+date: 2017-05-19 15:55:24.000000000 +08:00
+tags: moonmoonbird, info
+keywords: moonmoonbird, moonmoonbird
 redirect_from:
-  - /2016/11/about/
+  - /2017/05/about/
 ---
 
 ## 小站今天正式建立了
